@@ -30,7 +30,7 @@
    - **ne uključujte** druge ponuđene opcije (README, .gitignore, license)
    - kliknite **"Create repository"**
 
-   ![Create](assets/v1/image-1.png)
+        ![Create](assets/v1/image-1.png)
 <br/><br/>
 5. **Kreiranje lokalnog Python projekta**:
    - otvorite Command Prompt
@@ -148,7 +148,8 @@
         # Ovo je moj komentar - VašeIme
         ```
      - spremanjem promjene s opisom klikom na **"Commit changes"**
-     ![Commit](assets/v1/image.png)
+
+         ![Commit](assets/v1/image.png)
 <br/><br/><br/>
 
 10. **Dohvaćanje promjena**:
@@ -222,10 +223,12 @@
 13. **Korištenje GitHub Issues**:
     - kao suradnik otvorite GitHub projekt na kojem surađujete (**ne vaš**)
     - kliknite na **"Issues"** (gore lijevo) -> **"New issue"**
-    ![New issue](assets/v1/image-2.png)
+
+        ![New issue](assets/v1/image-2.png)
 
     - opišite "bug" i označite ga kao bug (s desne strane)
-    ![alt text](assets/v1/image-3.png)
+
+        ![alt text](assets/v1/image-3.png)
 
     - kao vlasnik otvorite svoj GitHub projekt, pregledajte stvoreni issue
       - dodijelite ga osobi koja ga je prijavila (s desne strane **"Assignees"**)
