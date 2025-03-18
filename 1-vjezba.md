@@ -38,6 +38,10 @@
 <br/><br/>
 5. **Kreiranje lokalnog Python projekta**:
    - otvorite Command Prompt
+   - izbrište direktorij prethodnih studenata
+        ```
+           rmdir /s /q PIS-V1
+        ```
    - kreirajte novi direktorij za projekt:
         ```bash
         mkdir PIS-V1
