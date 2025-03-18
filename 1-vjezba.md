@@ -14,6 +14,10 @@
         git --version
         ```
    - ako je Git već instaliran, prikazat će se njegova verzija ✅
+   - uklonite certifikate prethodnih korisnika sljedećom naredbom:
+      ```
+         cmdkey /delete:git:https://github.com
+      ```
 
 3. **Instalacija Gita** (ako nije instaliran):
    - za Windows: Preuzmite i instalirajte s https://git-scm.com/downloads/win
