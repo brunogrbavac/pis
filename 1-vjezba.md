@@ -140,7 +140,7 @@
 9. **Suradnja**:
    - dodajte novog suradnika:
      - na GitHub stranici repozitorija, kliknite **"⚙️ Settings"**
-     - izaberite **"👤 Manage Access"** iz lijevog izbornika
+     - izaberite **"👤 Collaborators"** iz lijevog izbornika
      - kliknite **"Add people"** i unesite korisničko ime kolege
 
    - suradnik prihvaća poziv (link u e-mailu ili pretincu obavijesti GitHuba)
