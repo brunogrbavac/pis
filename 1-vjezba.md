@@ -16,7 +16,7 @@
    - ako je Git već instaliran, prikazat će se njegova verzija ✅
    - uklonite certifikate prethodnih korisnika sljedećom naredbom:
       ```
-         cmdkey /delete:git:https://github.com
+      cmdkey /delete:git:https://github.com
       ```
 
 3. **Instalacija Gita** (ako nije instaliran):
@@ -40,7 +40,7 @@
    - otvorite Command Prompt
    - izbrište direktorij prethodnih studenata
         ```
-           rmdir /s /q PIS-V1
+        rmdir /s /q PIS-V1
         ```
    - kreirajte novi direktorij za projekt:
         ```bash
